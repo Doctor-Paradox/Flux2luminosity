@@ -9,7 +9,7 @@ import tkinter as tk
 import numpy as np
 
 window = tk.Tk()
-window.title("parallax to luminosity converter")
+window.title("Flux to luminosity converter")
 window.geometry("700x600")
 # distance=1000/parallax                        # in pc
 # distanceerr=distance*parallaxerr/parallax       #in pc
